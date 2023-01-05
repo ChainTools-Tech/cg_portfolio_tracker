@@ -1,0 +1,38 @@
+{
+  "general": [
+    {
+      "api_url": "https://api.coingecko.com/api/v3/coins/",
+      "reference_currency": "usd"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "algorand",
+      "amount": 10078.138272
+    },
+    {
+      "id": "litecoin",
+      "amount": 11
+    },
+    {
+      "id": "storj",
+      "amount": 2006
+    },
+    {
+      "id": "icon",
+      "amount": 10018.42
+    },
+    {
+      "id": "digibyte",
+      "amount": 110564
+    },
+    {
+      "id": "cosmos",
+      "amount": 651
+    },
+    {
+      "id": "sentinel",
+      "amount": 2434132
+    }
+  ]
+}
